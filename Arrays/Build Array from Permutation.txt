@@ -1,3 +1,7 @@
+
+// Easy Leetcode 
+//Brute force solution
+
 class Solution {
     public int[] buildArray(int[] nums) {
         int[] res = new int[nums.length];
